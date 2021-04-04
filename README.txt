@@ -13,7 +13,7 @@ This project implements the following 2 different clustering techniques k-means 
 This project also implements the following 4 different dimensionality reduction techniques.
 - Principal Component Analysis
 - Independent Component Analysis
-- Random Projection (gaussian)
+- Random Projection (Gaussian)
 - Method of choice (Sparse random projection)
 
 ** It finaly implements neural network based learner for dimension reduction and clustering for Credit dataset.
